@@ -157,7 +157,7 @@ def generate_report():
 
 #Script driver, runs the program
 def main():
-    # run_processes()
+    run_processes()
     process_perfmon_data()
     generate_report()
 
