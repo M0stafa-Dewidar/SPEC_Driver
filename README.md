@@ -30,11 +30,11 @@ python .\run.py
 You should get a pdf report containing the composite score, the average composite score from the SPECviewPerf runs,
 and the memory and process utilization data.
 
-##Issues
+## Issues
 SPECviewPerf uses unpredictable naming for the results folder which lead me to rely on getting the data from the latest
 modified folder assuming it will be the one associated with the test just executed.
 
-##Future Features
+## Future Features
 - Add support for user input to allow customization of (viewset, num_iterations, window size, what data perfmon logs, etc.)
 - Add support for running the script in any filesystem setup (remove hardcoded directory paths and replace them with environment variables)
 - Beautify the pdf report.
