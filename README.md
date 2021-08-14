@@ -1,4 +1,4 @@
-# SPEC_perfmon_driver
+# SPEC_Driver
 
 SPEC_perfmon_driver is a Python script that runs SPECviewPerf2020 on the sw viewset and reports results including memory
 and processor utilization obtained from perfmon.
