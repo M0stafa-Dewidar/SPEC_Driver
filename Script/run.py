@@ -157,8 +157,8 @@ def generate_report():
 
 #Script driver, runs the program
 def main():
-    # run_processes()
-    # process_perfmon_data()
+    run_processes()
+    process_perfmon_data()
     generate_report()
 
 if __name__ == "__main__":
